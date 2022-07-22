@@ -584,7 +584,7 @@ if(!/^(0x){1}[0-9a-fA-F]{40}$/i.test(referaladd)){
   'error'
 )
 }else{
-    document.getElementById('refaddress').value = 'https://aegeantoken.online/?ref=' + document.getElementById('refaddress').value;
+    document.getElementById('refaddress').value = 'https://Msaddartoken.online/?ref=' + document.getElementById('refaddress').value;
 }
 }
 }
