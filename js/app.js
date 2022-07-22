@@ -544,7 +544,7 @@ function addToWallet() {
         'type': 'ERC20',
         'options': {
           'address': '0x4B4fdb4E7eEc1Cb8Cb13F8A4E853108d6D823346',
-          'symbol': 'AEGE',
+          'symbol': 'MSD',
           'decimals': '18',
           'image': 'https://metarez.info//img/mts.png',
         },
