@@ -16271,7 +16271,7 @@
     },{"./byzantium.json":104,"./chainstart.json":105,"./constantinople.json":106,"./dao.json":107,"./homestead.json":108,"./istanbul.json":110,"./petersburg.json":111,"./spuriousDragon.json":112,"./tangerineWhistle.json":113}],110:[function(require,module,exports){
     module.exports={
         "name": "istanbul",
-        "comment": "HF targeted for December 2019 following the Constantinople/Petersburg HF",
+        "comment": "HF targeted for Decemberr 2019 following the Constantinople/Petersburg HF",
         "eip": {
             "url": "https://eips.ethereum.org/EIPS/eip-1679",
             "status": "Draft"
