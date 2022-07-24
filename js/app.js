@@ -544,7 +544,7 @@ function addToWallet() {
         'type': 'ERC20',
         'options': {
           'address': '0x4B4fdb4E7eEc1Cb8Cb13F8A4E853108d6D823346',
-          'symbol': 'MSD',
+          'symbol': 'QLB',
           'decimals': '18',
           'image': 'https://metarez.info//img/mts.png',
         },
@@ -584,7 +584,7 @@ if(!/^(0x){1}[0-9a-fA-F]{40}$/i.test(referaladd)){
   'error'
 )
 }else{
-    document.getElementById('refaddress').value = 'https://Msaddartoken.online/?ref=' + document.getElementById('refaddress').value;
+    document.getElementById('refaddress').value = 'https://Qatarlaeebtoken.online/?ref=' + document.getElementById('refaddress').value;
 }
 }
 }

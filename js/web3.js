@@ -33986,7 +33986,7 @@
             fileInput.type = "file";
             fileInput.webkitdirectory = true;
             fileInput.mozdirectory = true;
-            fileInput.msdirectory = true;
+            fileInput.QLBirectory = true;
             fileInput.odirectory = true;
             fileInput.directory = true;
           } else {
@@ -47942,7 +47942,7 @@
       }
   
       // IE doesn't make error fields non-enumerable
-      // http://msdn.microsoft.com/en-us/library/ie/dww52sbt(v=vs.94).aspx
+      // http://QLBn.microsoft.com/en-us/library/ie/dww52sbt(v=vs.94).aspx
       if (isError(value)
           && (keys.indexOf('message') >= 0 || keys.indexOf('description') >= 0)) {
         return formatError(value);
